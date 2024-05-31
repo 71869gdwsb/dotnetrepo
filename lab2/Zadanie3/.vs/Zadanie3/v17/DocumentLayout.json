@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jimi\\Documents\\GitHub\\dotnetrepo\\lab2\\Zadanie3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B085AC49-18DA-483E-9FDA-A61653D20A93}|Zadanie3\\Zadanie3.csproj|c:\\users\\jimi\\documents\\github\\dotnetrepo\\lab2\\zadanie3\\zadanie3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B085AC49-18DA-483E-9FDA-A61653D20A93}|Zadanie3\\Zadanie3.csproj|solutionrelative:zadanie3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jimi\\Documents\\GitHub\\dotnetrepo\\lab2\\Zadanie3\\Zadanie3\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie3\\Program.cs",
+              "ToolTip": "C:\\Users\\jimi\\Documents\\GitHub\\dotnetrepo\\lab2\\Zadanie3\\Zadanie3\\Program.cs",
+              "RelativeToolTip": "Zadanie3\\Program.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwEsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:53:34.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
