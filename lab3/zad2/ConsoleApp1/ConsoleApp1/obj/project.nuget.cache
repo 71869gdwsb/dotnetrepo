@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AdTvWKLIK+XFwaA5NXm96ybM7PubRPFXDKNvGLxc0arQYgdTdc0hmU1Sjd3T4a8QCynF/itVykUVqt6X6YFhlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jimi\\Desktop\\3sem\\dnz\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jimi\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\jimi\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\jimi\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\jimi\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

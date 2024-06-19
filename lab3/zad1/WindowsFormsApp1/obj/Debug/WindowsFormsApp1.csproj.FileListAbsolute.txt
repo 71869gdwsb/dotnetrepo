@@ -1,0 +1,13 @@
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab3\zad1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab3\zad1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab3\zad1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab3\zad1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab3\zad1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab3\zad1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab3\zad1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab3\zad1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab3\zad1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab3\zad1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab3\zad1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab3\zad1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab3\zad1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

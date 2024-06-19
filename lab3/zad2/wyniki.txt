@@ -1,0 +1,9 @@
+Algorytm                        Sekund/Blok             Bajtów/sekundę (RAM)    Bajtów/sekundę (HDD)
+AES (CSP) 128 bit       	0,008116                129195436,29            619067186,21
+AES (CSP) 256 bit       	0,000961                1091130072,84           580157131,79
+AES Managed 128 bit     	0,000573                1829656255,45           1037577676,63
+AES Managed 256 bit     	0,000981                1068449154,27           782285884,81
+Rijndael Managed 128 bit        0,000797                1314993729,62           852154408,78
+Rijndael Managed 256 bit        0,000711                1474997890,00           1029731906,12
+DES 56 bit      		0,027018        	38809987,34             40152095,91
+3DES 168 bit   			0,023787        	44081893,47             43416599,38
