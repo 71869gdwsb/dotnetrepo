@@ -1,0 +1,15 @@
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\bin\Debug\net8.0\Klient.exe
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\bin\Debug\net8.0\Klient.deps.json
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\bin\Debug\net8.0\Klient.runtimeconfig.json
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\bin\Debug\net8.0\Klient.dll
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\bin\Debug\net8.0\Klient.pdb
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\obj\Debug\net8.0\Klient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\obj\Debug\net8.0\Klient.AssemblyInfoInputs.cache
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\obj\Debug\net8.0\Klient.AssemblyInfo.cs
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\obj\Debug\net8.0\Klient.csproj.CoreCompileInputs.cache
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\obj\Debug\net8.0\Klient.sourcelink.json
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\obj\Debug\net8.0\Klient.dll
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\obj\Debug\net8.0\refint\Klient.dll
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\obj\Debug\net8.0\Klient.pdb
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\obj\Debug\net8.0\Klient.genruntimeconfig.cache
+C:\Users\jimi\Documents\GitHub\dotnetrepo\lab4\Klient\obj\Debug\net8.0\ref\Klient.dll
